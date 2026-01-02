@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**najehbedhief/najehbedhief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 Hi, I'm Najeh Bedhief
+## 👋 Hi, I'm Najeh Bedhief
 
 ## 💻 Web Developer | PHP (Laravel & WordPress) | REST APIs | Vue.js
 
@@ -42,6 +37,9 @@
 - Photoshop
 - Illustrator
 - 3ds Max
+
+<!--
+**najehbedhief/najehbedhief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ⭐ *Feel free to explore my repositories and projects!*  
 
